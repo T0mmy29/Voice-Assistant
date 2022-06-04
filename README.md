@@ -3,7 +3,7 @@ Voice Assistant using Python
 
 We need to install the following libraries to run this Python Code.
 
-Pip is a requirement to install the following modules,(if not installed already) to install pip, use the following command with your python
+Pip is a requirement to install the following modules,(if not installed already) to install pip, use the following command with your python in your terminal.
        
        python get-pip.py
 1) WIKIPEDIA:-  
